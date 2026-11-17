@@ -60,9 +60,7 @@ Explore Third Bracket:
 
 https://www.thirdbracket.in/
 
-Learn more about its Performance Management System:
-
-https://www.thirdbracket.in/performance-management-software
+Learn more about its [Performance Management System](https://www.thirdbracket.in/performance-management-software)
 
 ## Conclusion
 
